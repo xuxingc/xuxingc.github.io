@@ -15,36 +15,39 @@ These are all mathematics courses and programs which I've taken in the first thr
 |          Courses           | Grades |
 | :------------------------: | :----: |
 | Mathematical Analysis (A1) |   91   |
-|     Analytic Geometry      |   87   |
-|   Foundation of Algebra    |   92   |
-|    Linear Algebra (A1)     |   91   |
-| Mathematical Analysis (A2) |   90   |
+|     Analytic Geometry      |   95   |
+|   Foundation of Algebra    |   90   |
+|    Linear Algebra (A1)     |   90   |
+| Mathematical Analysis (A2) |   89   |
+| Freshman Seminar           |   A+   |
+| Introduction to pure math  |  Pass  |
+
 
 **Sophomore Year**
 
 |                     Courses                      | Grades |
 | :----------------------------------------------: | :----: |
-|            Mathematical Analysis (A3)            |   90   |
-|               Linear Algebra (A2)                |   92   |
-|             Differential Equations I             |   91   |
-|                     Algebra                      |   92   |
-|                  Modern Algebra                  |   96   |
-|                 Complex Analysis                 |   91   |
-|    An Introduction to Algebraic Number Theory    |   95   |
-| Lie Group, Lie Algebra and their Representations |   95   |
-|                  Real Analysis                   |   89   |
+|            Mathematical Analysis (A3)            |   91   |
+|               Linear Algebra (A2)                |   95   |
+|             Differential Equations I             |   80   |
+|                  Combinatorics                   |   92   |
+|                 Modern Algebra (H)               |   82   |
+|                Complex Analysis (H)              |   87   |
+|                  Real Analysis                   |   93   |
 
 **Junior Year**
 
 |              Courses               | Grades |
 | :--------------------------------: | :----: |
-|        Functional Analysis         |   91   |
-|        Commutative Algebra         |   95   |
-| Introduction to Algebraic Geometry |   98   |
-|       Differential Geometry        |   90   |
-|   McKay Correspondence (Program)   |   A    |
-|              Topology              |   87   |
-|     Differential Equations II      |   85   |
+|         Functional Analysis        |   92   |
+|         Numerical Algebra          |   98   |
+|         Operations Research        |   95   |
+|        Differential Geometry       |   87   |
+|        Mathematical Statistics     |   92   |
+|              Graph Theory          |   85   |
 |         Probability Theory         |   90   |
-|          Riemann Surfaces          |   99   |
-
+|      Applied Stochastic Process    |   85   |
+|     Differential Equations II      |   88   |
+|            Wavelet Analysis        |   94   |
+|         Foundation of Algorithm    |   86   |
+|          Numerical Analysis        |   85   |
