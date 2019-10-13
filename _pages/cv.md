@@ -8,11 +8,14 @@ redirect_from:
 ---
 
 {% include base_path %}
+Here's pdf version of my [CV](https://xuxingc.github.io/pdf/cv.pdf)
+
+
 
 Education
 ======
 * B.S. in Mathematics, University of Science and Technology of China, 2020(expected)
-  * Overall GPA: 3.72/4.30 (23/158) 3.87/4.30(math courses only)
+  * Overall GPA: 3.72/4.30 (23/158) 3.87/4.30 (math courses only)
   * Overall Percentage: 87.81/100.00
 
 Research Interests
@@ -22,12 +25,12 @@ Research Interests
 
 Research Experiences
 =======
-* Geometric Representation of Planar Graphs(July 2019 - October 2019)
+* Geometric Representation of Planar Graphs (July 2019 - October 2019)
   * Department of Computer Science, University of British Columbia
   * Supervisor: Prof. William Evans
   * We mainly focus on Contact Representation and Universal Point Sets for Planar Graphs 
 
-* Algebraic Graph Theory(May 2018 - )
+* Algebraic Graph Theory (May 2018 - )
   * School of Mathematical Sciences, University of Science and Technology of China
   * Supervisor: Prof. Xinmin Hou
   * We consider extremal problems in graph theory concerning spectral radius
