@@ -1,68 +1,62 @@
 ---
 layout: archive
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
-
-
 ---
 
 {% include base_path %}
 
-This is the [pdf](https://zengruihan.github.io/pdf/CV.pdf) version of this page.
+Education
+======
+* B.S. in Mathematics, University of Science and Technology of China, 2020(expected)
+  * Overall GPA: 3.72/4.30 (23/158) 3.87/4.30(math courses only)
+  * Overall Percentage: 87.81/100.00
 
-------------------------------------------------
+Research Interests
+======
+* Discrete Mathematics 
+* Optimization
 
-# Education
+Research Experiences
+=======
+* Geometric Representation of Planar Graphs(July 2019 - October 2019)
+  * Department of Computer Science, University of British Columbia
+  * Supervisor: Prof. William Evans
+  * We mainly focus on Contact Representation and Universal Point Sets for Planar Graphs 
 
-- B.S. in Mathematics, University of Science and Technology of China, 2020 (expected)
-  - Overall GPA: 3.91/4.30
-  - Overall Percentage: 90.11/100.00
+* Algebraic Graph Theory(May 2018 - )
+  * School of Mathematical Sciences, University of Science and Technology of China
+  * Supervisor: Prof. Xinmin Hou
+  * We consider extremal problems in graph theory concerning spectral radius
+
+Honors
+======
+* Bronze medal (7th place) in team contest in Shing Tung Yau College Student Mathematics Contest (2019)
+* Honorable mention (8th place) in team contest in Shing Tung Yau College Student Mathematics Contest (2018)
+* Outstanding student prize at USTC (Silver medal, 2019)
+* Outstanding student prize at USTC (Silver medal, 2018)
+* Outstanding student prize at USTC (Bronze medal, 2017)
+* Outstanding report prize (A Brief History of Geometry) in the freshman seminar at USTC (top 2, 2017)
+* Bronze medal in Chinese Mathematical Olympiad (the 31st CMO, 2015)
+
+
+Basic Programming Skills
+======
+* C++, Matlab, Mathematica, Sagemath.
+  * Learnt these in courses in computational math like numerical algebra, computer aided geometric design.
+
+Publications
+======
+No publications yet
   
-------------------------------------------------
-
-# Research Interests
-
-- Algebraic Geometry
-- Representation Theory
-
-------------------------------------------------
-
-# Research Experience
-
-**Hypergeometric Duality Conjecture**                                                                        (*July 2019 -- September 2019*)
-
-*Mathematics Department, Rutgers*
-
-Supervisor: [Prof. Lev Borisov](http://sites.math.rutgers.edu/~borisov/)
-
-Reference: Borisov, L. A., & Horja, R. P. (2015). Applications of homological mirror symmetry to hypergeometric systems: duality conjectures. *Advances in Mathematics*, *271*, 153-187. [pdf](https://zengruihan.github.io/pdf/Applications of homological mirror symmetry to hypergeometric systems duality conjectures.pdf)
-
-**McKay Correspondence**                                                                                            (*December 2017 -- October 2018*)
-
-*School of Mathematical Sciences, USTC*
-
-Supervisor: [Prof. Xiao-Wu Chen](http://home.ustc.edu.cn/~xwchen/)
-
-Reference: [Final Paper](https://zengruihan.github.io/pdf/paper.pdf)
-
-------------------------------------------------
-
-# Publications and preprints
-
-- [On duality of certain GKZ hypergeometric systems](https://arxiv.org/abs/1910.04039), with Lev Borisov and Chengxi Wang, arXiv:1910.04039.
-
-------------------------------------------------
-
-# Talks
-
-No talks yet.
-
-------------------------------------------------
-
-# Teaching Assistant Experience
-
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+Talks
+======
+No talks yet
+  
+Teaching
+======
+* Undergraduate Teaching Assistant
+  * Combinatorics, USTC, School of Mathematical Sciences, 2019 Fall
