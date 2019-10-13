@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zengrui's Homepage"
+title                    : "Xuxing's Homepage"
 title_separator          : "-"
-name                     : &name "Zengrui Han"
+name                     : &name "Xuxing Chen"
 description              : &description "personal description"
-url                      : https://ZengruiHan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://xuxingc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zengrui Han"
-  avatar           : "head.png"
-  bio              : "An undergraduate majoring in Pure Mathematics"
+  name             : "Xuxing Chen"
+  avatar           : "photo.png"
+  bio              : "Senior student at the school of mathematical sciences at University of Science and Technology of China"
   location         : "Hefei, China"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "hanzr@mail.ustc.edu.cn"
+  email            : "cxxustc@mail.ustc.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ZengruiHan"
+  github           : "xuxingc"
   google_plus      :
   keybase          :
   instagram        :
