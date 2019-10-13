@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-Here's pdf version of my [CV](https://xuxingc.github.io/pdf/cv.pdf)
+Here's a pdf version of my [CV](https://xuxingc.github.io/pdf/cv.pdf)
 
 
 
