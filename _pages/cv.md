@@ -34,6 +34,8 @@ Research Experiences
   * School of Mathematical Sciences, University of Science and Technology of China
   * Supervisor: Prof. Xinmin Hou
   * We consider extremal problems in graph theory concerning spectral radius
+  
+* If you're interested in these topics above, feel free to contact me to get references. We can discuss problems together!
 
 Honors
 ======
