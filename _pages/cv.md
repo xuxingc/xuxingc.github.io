@@ -44,7 +44,7 @@ Honors
 * Outstanding student prize at USTC (Silver medal, 2019)
 * Outstanding student prize at USTC (Silver medal, 2018)
 * Outstanding student prize at USTC (Bronze medal, 2017)
-* Outstanding report prize (A Brief History of Geometry) in the freshman seminar at USTC (top 2, 2017)
+* Outstanding report prize ([A Brief History of Geometry](https://xuxingc.github.io/pdf/freshman seminar.pdf)) in the freshman seminar at USTC (top 2, 2017)
 * Bronze medal in Chinese Mathematical Olympiad (the 31st CMO, 2015)
 
 
