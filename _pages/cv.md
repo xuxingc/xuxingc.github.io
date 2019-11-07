@@ -20,9 +20,9 @@ Education
 
 Research Interests
 ======
-* Applied Math
 * Discrete Math
 * Optimization
+* Scientific Computing
 
 Research Experiences
 =======
