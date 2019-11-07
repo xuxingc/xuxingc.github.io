@@ -11,9 +11,9 @@ redirect_from:
 An Application of Finite Fourier Analysis
 ======
 
-Finite fourier analysis plays a critical role in proving the famous Drichlet Theorem in number theory. I learnt the main idea form Stein's book 'Fourier Analysis', and wrote a reading report (Chinese version). Click [here](https://xuxingc.github.io/pdf/ff.pdf) for details. For English version, please read Stein's book (Chapter 7)!
+Finite fourier analysis plays a critical role in proving the famous Dirichlet Theorem in number theory. I learnt the main idea form Stein's book 'Fourier Analysis', and wrote a reading report (Chinese version). Click [here](https://xuxingc.github.io/pdf/ff.pdf) for details. For English version, please read Stein's book (Chapter 7)!
 
 Notes in Combinatorics
 ======
 
-You can download notes in combinatorics here: [notes before mid-term](https://xuxingc.github.io/pdf/notes_1.pdf) [notes after mide-term](https://xuxingc.github.io/pdf/notes_2.pdf)
+You can download notes in combinatorics (USTC, 2019 fall) here: [notes before mid-term](https://xuxingc.github.io/pdf/notes_1.pdf) [notes after mide-term](https://xuxingc.github.io/pdf/notes_2.pdf)
