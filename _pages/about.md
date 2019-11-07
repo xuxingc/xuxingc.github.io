@@ -10,4 +10,4 @@ redirect_from:
 
 **About Me**
 
-Hi! Currently I'm a senior student at the school of mathematical seciences at University of Science and Technology of China. My research interests include applied math, discrete math, optimization, and their applications to theoretical computer science.
+Hi! Currently I'm a senior student at the school of mathematical seciences at University of Science and Technology of China. My research interests include discrete math, optimization, scientific computing, and their applications to theoretical computer science.
