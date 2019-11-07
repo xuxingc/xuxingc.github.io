@@ -28,12 +28,12 @@ Research Experiences
 * Geometric Representation of Planar Graphs (July 2019 - October 2019)
   * Department of Computer Science, University of British Columbia
   * Supervisor: Prof. William Evans
-  * We mainly focus on Contact Representation and Universal Point Sets for Planar Graphs 
+  * We mainly focus on Contact Representation and Universal Point Sets for Planar Graphs -- These are 2 topics in Graph Drawing. Click 
 
 * Algebraic Graph Theory (May 2018 - )
   * School of Mathematical Sciences, University of Science and Technology of China
   * Supervisor: Prof. Xinmin Hou
-  * We consider extremal problems in graph theory concerning spectral radius
+  * We consider extremal problems in graph theory concerning spectral radius -- How large will the spectral radius of the adjacency matrix (or signless laplacian matrix) of a graph be, if it has no certain structures? There are results for those graphs without long cycles or paths. For all trees of given order, it remains a difficult problem. We aim at proving similar bounds for cycles and paths are also valid for trees with diameter at most 4.
   
 * If you're interested in these topics above, feel free to contact me to get references. We can discuss problems together!
 
