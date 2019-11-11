@@ -15,8 +15,9 @@ Here's a pdf version of my [CV](https://xuxingc.github.io/pdf/cv.pdf)
 Education
 ======
 * B.S. in Mathematics, University of Science and Technology of China, 2020(expected)
-  * Overall GPA: 3.72/4.30 (23/158) 3.87/4.30 (math courses only)
+  * Overall GPA: 3.72/4.30  3.87/4.30 (math courses only)
   * Overall Percentage: 87.81/100.00
+  * Ranking: 23/158 (GPA, honors, and research experiences are taken into consideration)
 
 Research Interests
 ======
