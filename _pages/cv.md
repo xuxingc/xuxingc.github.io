@@ -30,7 +30,7 @@ Research Experiences
 * Geometric Representation of Planar Graphs (July 2019 - October 2019)
   * Department of Computer Science, University of British Columbia
   * Supervisor: Prof. William Evans
-  * We mainly focused on Contact Representation and Universal Point Sets for Planar Graphs -- These are 2 topics in Graph Drawing. Click [here](http://graphdrawing.org) for details about Graph Drawing. We tried to prove the convergence of algorithms of generating particular contact representations of planar graphs. Also, I've read materials for best known lower and upper bounds for Universal Point Sets.
+  * We mainly focused on Contact Representation and Universal Point Sets for Planar Graphs -- These are 2 topics in Graph Drawing. Click [here](http://graphdrawing.org) for details about Graph Drawing. We tried to prove the convergence of algorithms of generating particular contact representations of planar graphs. Also, I've tried improved bounds for [Universal Point Sets](http://cs.smith.edu/~jorourke/TOPP/P45.html#Problem.45).
   * Applications of graph drawing can be seen in ares like information visualization, VLSI design, etc.
 
 * Spectral Graph Theory (May 2018 - )
