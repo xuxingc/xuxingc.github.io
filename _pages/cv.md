@@ -17,7 +17,7 @@ Education
 * B.S. in Mathematics, University of Science and Technology of China, 2020(expected)
   * Overall GPA: 3.72/4.30  3.87/4.30 (math courses only)
   * Overall Percentage: 87.81/100.00  89.69/100 (math courses only)
-  * Ranking: 23/158 (GPA, honors, and research experiences are taken into consideration)
+  * Comprehensive Ranking: 23/158 in the school of mathematical sciences; 3/24 among students majoring in applied math (GPA, honors, and research experiences are taken into consideration)
 
 Research Interests
 ======
