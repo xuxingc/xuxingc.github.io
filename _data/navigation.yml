@@ -12,9 +12,6 @@ main:
   - title: "Teaching Assistant"
     url: /teaching/  
     
-  - title: "Courses"
-    url: /courses/  
-    
   - title: "Portfolio"
     url: /portfolio/
 
