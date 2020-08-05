@@ -14,14 +14,11 @@ Here's a pdf version of my [CV](https://xuxingc.github.io/pdf/CV.pdf)
 
 Education
 ======
-* B.S. in Mathematics, University of Science and Technology of China, 2020(expected)
-  * Overall GPA: 3.72/4.30  3.87/4.30 (math courses only)
-  * Overall Percentage: 87.81/100.00  89.69/100 (math courses only)
-  * Comprehensive Ranking: 23/158 in the school of mathematical sciences; 3/24 among students majoring in applied math (GPA, honors, and research experiences are taken into consideration)
+* B.S. in Mathematics and Applied Mathematics, University of Science and Technology of China, 2020
 
 Research Interests
 ======
-* Discrete Math
+* Combinatorics
 * Optimization
 * Scientific Computing
 
@@ -39,8 +36,6 @@ Research Experiences
   * We considered extremal problems in graph theory concerning spectral radius -- How large will the spectral radius of the adjacency matrix (or signless laplacian matrix) of a graph be, if it has no certain structures? There are results for those graphs without long cycles or paths. For all trees of given order, it remains a difficult problem. We aimed at proving similar bounds for cycles and paths are also valid for trees with diameter at most 4. 
   * Spectral graph theory has many applications, for example, recently the short proof of Sensitivity Conjecture given by Prof. Hao Huang included basic theory in spectral graph theory. Theoretical computer scientists and mathematicians were amazed that the proof could be so concise!
   
-* If you're interested in these topics above, feel free to contact me to get references. We can discuss problems together!
-
 Honors
 ======
 * Bronze medal (7th place) in team contest in Shing Tung Yau College Student Mathematics Contest (2019)
@@ -55,7 +50,7 @@ Honors
 Basic Programming Skills
 ======
 * C++, Matlab, Mathematica, Sagemath.
-  * Learnt these in courses in computational math like numerical algebra, computer aided geometric design.
+  * Numerical experiments in scientific computing and optimization.
 
 Publications
 ======
