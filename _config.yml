@@ -58,7 +58,7 @@ yandex_site_verification :
 # Social Sharing
 twitter:
   username               : &twitter
-facebook:
+facebook: 
   username               :
   app_id                 :
   publisher              :
@@ -83,7 +83,7 @@ author:
   name             : "Xuxing Chen"
   avatar           : "Chen.jpg"
   bio              : "First year PhD student in UC Davis"
-  location         : "Hefei, China"
+  location         : "Davis, California"
   employer         :
   pubmed           : 
   googlescholar    : 
@@ -101,7 +101,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/xuxingchen"
+  linkedin         : https://www.linkedin.com/in/xuxingchen
   orcid            :
   pinterest        :
   soundcloud       :
