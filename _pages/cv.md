@@ -8,20 +8,13 @@ redirect_from:
 ---
 
 {% include base_path %}
-Here's a pdf version of my [CV](https://xuxingc.github.io/pdf/CV.pdf)
 
 
 
 Education
 ======
-* B.S. in Mathematics and Applied Mathematics, University of Science and Technology of China, 2020
-* Ph.D. in Applied Mathematics, University of California, Davis, 2020 - present
-
-Research Interests
-======
-* Combinatorics
-* Optimization
-* Scientific Computing
+* Ph.D. in Applied Mathematics, University of California, Davis, Sept 2020 - present
+* B.S. in Mathematics and Applied Mathematics, University of Science and Technology of China, Sept 2016 - Jun 2020
 
 Seminars
 =======
