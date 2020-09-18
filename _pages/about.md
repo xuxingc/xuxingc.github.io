@@ -12,6 +12,4 @@ redirect_from:
 
 Hi! Currently I'm a first year Ph.D. student in Graduate Group in Applied Mathematics in UC Davis. My research interests include combinatorics, optimization, scientific computing, and their applications in computer science.
 
-I'm always actively seeking for potential collaborators. If you're interested in working with me, feel free to send me emails!
-
 My email address is xuxing at math.ucdavis.edu.
