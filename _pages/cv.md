@@ -16,7 +16,7 @@ Education
 * Ph.D. in Applied Mathematics, University of California, Davis, Sept. 2020 - present
 * B.S. in Mathematics and Applied Mathematics, University of Science and Technology of China, Sept. 2016 - Jun. 2020
 
-Seminars
+Seminars & Reading Courses
 =======
 * Contact representations & Universal Point Sets (Jul. 2019 - Oct. 2019)
   * Department of Computer Science, University of British Columbia
@@ -53,5 +53,7 @@ No talks yet
   
 Teaching
 ======
+* Undergraduate Teaching Assistant
+  * MAT-021D Vector Analysis, UC Davis, Department of Mathematics, fall 2020
 * Undergraduate Teaching Assistant
   * Combinatorics, USTC, School of Mathematical Sciences, fall 2019
