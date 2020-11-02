@@ -16,6 +16,13 @@ Education
 * Ph.D. in Applied Mathematics, University of California, Davis, Sept. 2020 - present
 * B.S. in Mathematics and Applied Mathematics, University of Science and Technology of China, Sept. 2016 - Jun. 2020
 
+Experience
+======
+* Research internship at Algorithm Lab, University of British Columbia
+  * Advisor: Prof. William Evans
+  * Jul. 2019 - Oct. 2019
+
+
 Honors
 ======
 * Bronze medal (7th place) in team contest in Shing Tung Yau College Student Mathematics Contest (2019)
