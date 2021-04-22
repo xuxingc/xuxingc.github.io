@@ -46,6 +46,8 @@ No talks yet
 Teaching
 ======
 * Undergraduate Teaching Assistant
+  * MAT-021C Calculus, UC Davis, Department of Mathematics, spring 2021
+* Undergraduate Teaching Assistant
   * MAT-021B Calculus, UC Davis, Department of Mathematics, winter 2021
 * Undergraduate Teaching Assistant
   * MAT-021D Vector Analysis, UC Davis, Department of Mathematics, fall 2020
