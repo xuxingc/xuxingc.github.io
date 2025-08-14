@@ -7,6 +7,8 @@ author_profile: true
 
 Publications
 ==========
+* [Stochastic Optimization for Machine Learning: Investigations on Bilevel Optimization and Large Learning Rates](https://escholarship.org/content/qt4h6002gb/qt4h6002gb_noSplash_698ab8180613c7f3238d76ac6a3fe81d.pdf), PhD thesis.
+  * Xuxing Chen
 * [Fully First-Order Methods for Decentralized Bilevel Optimization](https://arxiv.org/abs/2410.19319), IEEE TSP 2025 (to appear).
   * Xiaoyu Wang\*, Xuxing Chen\*, Shiqian Ma, Tong Zhang.
 * [Tuning-Free Decentralized Nonconvex Stochastic Optimization](http://manu71.magtech.com.cn/Jwk3_pjo/EN/10.61208/pjo-2025-009), Pacific Journal of Optimization 2025.
