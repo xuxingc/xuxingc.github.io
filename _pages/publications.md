@@ -7,6 +7,8 @@ author_profile: true
 
 Publications
 ==========
+* [Fully First-Order Methods for Decentralized Bilevel Optimization](https://arxiv.org/abs/2410.19319), IEEE TSP 2025 (to appear).
+  * Xiaoyu Wang\*, Xuxing Chen\*, Shiqian Ma, Tong Zhang.
 * [Tuning-Free Decentralized Nonconvex Stochastic Optimization](http://manu71.magtech.com.cn/Jwk3_pjo/EN/10.61208/pjo-2025-009), Pacific Journal of Optimization 2025.
   * Jiaxiang Li, Xuxing Chen, Shiqian Ma, Mingyi Hong.
 * [Stochastic Approximation Algorithms for Nested Compositional Bi-level Optimization](https://arxiv.org/abs/2307.05384), Mathematical Programming 2025 (minor revision).
@@ -26,10 +28,4 @@ Publications
 * [A One-Sample Decentralized Proximal Algorithm for Non-Convex Stochastic Composite Optimization](https://proceedings.mlr.press/v216/xiao23a/xiao23a.pdf), UAI 2023.
   * Tesi Xiao\*, Xuxing Chen\*, Krishnakumar Balasubramanian, Saeed Ghadimi.
 
-Preprints
-==========
-* [Fully First-Order Methods for Decentralized Bilevel Optimization](https://arxiv.org/abs/2410.19319), 2024.
-  * Xiaoyu Wang\*, Xuxing Chen\*, Shiqian Ma, Tong Zhang.
-
- 
 ('*' denotes equal contributions)
